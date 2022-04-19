@@ -4,15 +4,15 @@
 ### Tutor monitoring dashboard
 Design Pattern: Observer Pattern
 
-Students must be able to capture all the bidding votes from other participated students on a tutor monitoring dashboard.
+During the bidding session, students must be able to capture all the bidding votes from other participants on a tutor monitoring dashboard.
 
 ### Contract expiration and renewal
-Contract established between students and tutor could expired and renewal of that particular contract can be done once the contract is expired.
+Student can initiated a contract once the bidding session is over. Contract established between students and tutor could expired and renewal of that particular contract can be done once the contract is expired and the student wish to continue with the tutor.
 
 ### Reuse previous contract
 Design Pattern: Strategy Pattern
 
-Students are able to reuse the previous contract given the existing requirements listed once the contract is expired.
+Students are able to reuse the previous contract, restoring the existing requirements on previous contract once that contract is expired.
 
 
-#### **Refer to the Design Docs to have a better understanding of design and development of tutor bidding system
+#### **Refer to the Design Docs to have a better understanding on the design and development of tutor bidding system
