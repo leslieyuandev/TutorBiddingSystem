@@ -1,0 +1,18 @@
+/bin/
+/apiKey
+/src/.idea/
+../../.DS_Store
+	../.DS_Store
+	../.idea/
+	../Assignment2.iml
+	.DS_Store
+	out/.DS_Store
+	out/production/.DS_Store
+/.idea/
+/Assignment2.iml
+**/.DS_Store
+/api.txt
+/pom.xml
+/target/
+/src/APIManager
+/src/out/production/Assignment/
